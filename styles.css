@@ -1,0 +1,95 @@
+.container {
+  text-align: center;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 20px;
+  width: 500px;
+}
+
+h1 {
+  font-size: 32px;
+  color: #333;
+}
+
+.instructions {
+  font-size: 18px;
+  color: #ececec;
+  margin-top: 20px;
+}
+
+/* Create a container for the grid using CSS Grid */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns with equal width */
+  grid-gap: 10px; /* Gap between grid items */
+  width: 400px; /* Set a fixed width for the grid container */
+}
+
+/* Style each grid item */
+.grid-item {
+  height: 50px; 
+  width: 200px;
+  text-align: center;
+  background-color: #ccc;
+  border-radius: 10px;
+}
+
+.grid-item:hover {
+  cursor: pointer;
+  background-color: #007bff;
+}
+
+#message{
+  display: none;
+}
+
+#submit-button{
+  display: none;
+}
+
+#result-message{
+  display: none;
+  margin-top: 40vh;
+  margin-left: 32vw;
+}
+
+.option {
+  height: 100%;
+  width: 100%;
+  line-height: 3;
+  /* font-size: 20px; */
+  margin: 0;
+  padding: 0;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+body {
+  background: url('./background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  background-color: #f2f2f2; /* Fallback color in case the image is not available */
+}

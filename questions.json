@@ -1,0 +1,105 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": [
+          "London",
+          "Paris",
+          "Berlin",
+          "Madrid"
+        ],
+        "correctOption": "Paris"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+          "Mars",
+          "Venus",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correctOption": "Mars"
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": [
+          "Pablo Picasso",
+          "Leonardo da Vinci",
+          "Vincent van Gogh",
+          "Michelangelo"
+        ],
+        "correctOption": "Leonardo da Vinci"
+      },
+      {
+        "question": "What is the largest ocean in the world?",
+        "options": [
+          "Atlantic Ocean",
+          "Indian Ocean",
+          "Arctic Ocean",
+          "Pacific Ocean"
+        ],
+        "correctOption": "Pacific Ocean"
+      },
+      {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": [
+          "China",
+          "Japan",
+          "South Korea",
+          "Thailand"
+        ],
+        "correctOption": "Japan"
+      },
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": [
+          "William Shakespeare",
+          "George Bernard Shaw",
+          "Oscar Wilde",
+          "Jane Austen"
+        ],
+        "correctOption": "William Shakespeare"
+      },
+      {
+        "question": "What is the chemical symbol for the element Gold?",
+        "options": [
+          "Go",
+          "Au",
+          "Ag",
+          "Gd"
+        ],
+        "correctOption": "Au"
+      },
+      {
+        "question": "Which animal is known as the 'King of the Jungle'?",
+        "options": [
+          "Lion",
+          "Tiger",
+          "Elephant",
+          "Giraffe"
+        ],
+        "correctOption": "Lion"
+      },
+      {
+        "question": "What is the tallest mountain in the world?",
+        "options": [
+          "Mount Everest",
+          "K2",
+          "Kangchenjunga",
+          "Makalu"
+        ],
+        "correctOption": "Mount Everest"
+      },
+      {
+        "question": "Who is the author of the Harry Potter book series?",
+        "options": [
+          "J.R.R. Tolkien",
+          "J.K. Rowling",
+          "C.S. Lewis",
+          "Stephenie Meyer"
+        ],
+        "correctOption": "J.K. Rowling"
+      }
+    ]
+}
+  
